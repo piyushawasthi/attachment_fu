@@ -1,0 +1,109 @@
+8
+
+dir
+1481
+http://rise.unfuddle.com/svn/rise_thrive/trunk/vendor/plugins/attachment_fu
+http://rise.unfuddle.com/svn/rise_thrive
+
+
+
+2009-09-02T16:09:15.688581Z
+500
+sdillard
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+10f615c3-73b8-4ef0-ba97-b6400d4e5a13
+
+test
+dir
+
+Rakefile
+file
+
+
+
+
+2012-03-16T06:34:26.000000Z
+68b46bbdc65a11adcda8d45f2fb01610
+2009-05-26T07:51:14.542227Z
+378
+sdillard
+
+init.rb
+file
+
+
+
+
+2012-03-16T06:34:26.000000Z
+14196c6d501d1361969f208f3718dbc3
+2009-05-26T07:51:14.542227Z
+378
+sdillard
+
+lib
+dir
+
+CHANGELOG
+file
+
+
+
+
+2012-03-16T06:34:26.000000Z
+dfa2436ceb1a0afa6e7e412c78642662
+2009-05-26T07:51:14.542227Z
+378
+sdillard
+
+amazon_s3.yml.tpl
+file
+
+
+
+
+2012-03-16T06:34:26.000000Z
+be037d51d0ff671229cfda84cb28f672
+2009-05-26T07:51:14.542227Z
+378
+sdillard
+
+install.rb
+file
+
+
+
+
+2012-03-16T06:34:26.000000Z
+afc122a879278a1bfe5df9634907d0a4
+2009-05-26T07:51:14.542227Z
+378
+sdillard
+
+vendor
+dir
+
+README
+file
+
+
+
+
+2012-03-16T06:34:26.000000Z
+6651e00ff7825f7aa8003a8f1d1050cd
+2009-05-26T07:51:14.542227Z
+378
+sdillard
+
